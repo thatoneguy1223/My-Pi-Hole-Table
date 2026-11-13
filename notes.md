@@ -3,3 +3,4 @@
 | Domain | Reason | Date Added |
 | :--- | :--- | :--- |
 | `test.com` | test | 2026-11-13 00:16 |
+| `tosmail.com` | test | 2026-11-13 00:17 |
